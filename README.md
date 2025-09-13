@@ -1,3 +1,0 @@
-# mech-mayhem
-
-## Overview:^
